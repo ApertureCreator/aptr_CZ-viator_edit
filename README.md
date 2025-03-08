@@ -11,3 +11,6 @@ The rest are unaltered, the pack looks vaguely like this
 ![wait](https://github.com/user-attachments/assets/6f87bc64-78a6-4072-87cd-f8289191327c)
 ![openhand](https://github.com/user-attachments/assets/56e2c3f0-f8fc-4790-b815-d3df92cd4eef)
 ![pointing_hand](https://github.com/user-attachments/assets/cc323adf-3277-4369-a23b-e5abcc3406f4)
+#
+Download instructions:
+Download the zip from the green code button up top [or do `git clone https://github.com/ApertureCreator/aptr_CZ-viator_edit` into the directory of your choice.], place the "aptr-viator" folder in your cursor directory [for me its in ~/.icons]. This will vary between systems, so be sure to find out where to put it on your system. The aptr-viator folder will be found insde the "aptr_CZ-viator_edit" folder.
